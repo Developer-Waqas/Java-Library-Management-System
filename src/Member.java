@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// Member class
 public class Member {
     private String memberID;
     private String memberName;
